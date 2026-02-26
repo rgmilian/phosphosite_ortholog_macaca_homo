@@ -9,6 +9,7 @@ Full-length protein sequences for both macaque and human orthologs were retrieve
 This approach enabled systematic identification of conserved phosphorylation sites across species while accounting for insertions, deletions, and sequence divergence between macaque and human proteins. All bioinformatic analyses were performed in Python using pandas (v3.13.5), Biopython (v1.86), and the requests library for API queries.
 
 References
+
 The UniProt Consortium , UniProt: the Universal Protein Knowledgebase in 2025, Nucleic Acids Research, Volume 53, Issue D1, 6 January 2025, Pages D609–D617, https://doi.org/10.1093/nar/gkae1010
 
 Cock PJ, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, Friedberg I, Hamelryck T, Kauff F, Wilczynski B, de Hoon MJ. Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics. 2009 Jun 1;25(11):1422-3. doi: 10.1093/bioinformatics/btp163. Epub 2009 Mar 20. PMID: 19304878; PMCID: PMC2682512.
